@@ -1,0 +1,14 @@
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/Olamundo/bin/Debug/net9.0/Olamundo
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/Olamundo/bin/Debug/net9.0/Olamundo.deps.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/Olamundo/bin/Debug/net9.0/Olamundo.runtimeconfig.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/Olamundo/bin/Debug/net9.0/Olamundo.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/Olamundo/bin/Debug/net9.0/Olamundo.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/Olamundo/obj/Debug/net9.0/Olamundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/Olamundo/obj/Debug/net9.0/Olamundo.AssemblyInfoInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/Olamundo/obj/Debug/net9.0/Olamundo.AssemblyInfo.cs
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/Olamundo/obj/Debug/net9.0/Olamundo.csproj.CoreCompileInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/Olamundo/obj/Debug/net9.0/Olamundo.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/Olamundo/obj/Debug/net9.0/refint/Olamundo.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/Olamundo/obj/Debug/net9.0/Olamundo.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/Olamundo/obj/Debug/net9.0/Olamundo.genruntimeconfig.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/Olamundo/obj/Debug/net9.0/ref/Olamundo.dll
