@@ -1,0 +1,15 @@
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/JaggedArrays/bin/Debug/net9.0/JaggedArrays
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/JaggedArrays/bin/Debug/net9.0/JaggedArrays.deps.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/JaggedArrays/bin/Debug/net9.0/JaggedArrays.runtimeconfig.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/JaggedArrays/bin/Debug/net9.0/JaggedArrays.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/JaggedArrays/bin/Debug/net9.0/JaggedArrays.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/JaggedArrays/obj/Debug/net9.0/JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/JaggedArrays/obj/Debug/net9.0/JaggedArrays.AssemblyInfoInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/JaggedArrays/obj/Debug/net9.0/JaggedArrays.AssemblyInfo.cs
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/JaggedArrays/obj/Debug/net9.0/JaggedArrays.csproj.CoreCompileInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/JaggedArrays/obj/Debug/net9.0/JaggedArrays.sourcelink.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/JaggedArrays/obj/Debug/net9.0/JaggedArrays.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/JaggedArrays/obj/Debug/net9.0/refint/JaggedArrays.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/JaggedArrays/obj/Debug/net9.0/JaggedArrays.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/JaggedArrays/obj/Debug/net9.0/JaggedArrays.genruntimeconfig.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TRABALHOS/JaggedArrays/obj/Debug/net9.0/ref/JaggedArrays.dll
