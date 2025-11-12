@@ -1,0 +1,14 @@
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/AlgoritmodeBusca/bin/Debug/net9.0/AlgoritmodeBusca
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/AlgoritmodeBusca/bin/Debug/net9.0/AlgoritmodeBusca.deps.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/AlgoritmodeBusca/bin/Debug/net9.0/AlgoritmodeBusca.runtimeconfig.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/AlgoritmodeBusca/bin/Debug/net9.0/AlgoritmodeBusca.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/AlgoritmodeBusca/bin/Debug/net9.0/AlgoritmodeBusca.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/AlgoritmodeBusca/obj/Debug/net9.0/AlgoritmodeBusca.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/AlgoritmodeBusca/obj/Debug/net9.0/AlgoritmodeBusca.AssemblyInfoInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/AlgoritmodeBusca/obj/Debug/net9.0/AlgoritmodeBusca.AssemblyInfo.cs
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/AlgoritmodeBusca/obj/Debug/net9.0/AlgoritmodeBusca.csproj.CoreCompileInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/AlgoritmodeBusca/obj/Debug/net9.0/AlgoritmodeBusca.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/AlgoritmodeBusca/obj/Debug/net9.0/refint/AlgoritmodeBusca.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/AlgoritmodeBusca/obj/Debug/net9.0/AlgoritmodeBusca.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/AlgoritmodeBusca/obj/Debug/net9.0/AlgoritmodeBusca.genruntimeconfig.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/AlgoritmodeBusca/obj/Debug/net9.0/ref/AlgoritmodeBusca.dll
