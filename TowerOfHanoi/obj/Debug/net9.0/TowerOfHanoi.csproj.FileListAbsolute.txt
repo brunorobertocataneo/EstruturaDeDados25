@@ -1,0 +1,14 @@
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TowerOfHanoi/bin/Debug/net9.0/TowerOfHanoi
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TowerOfHanoi/bin/Debug/net9.0/TowerOfHanoi.deps.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TowerOfHanoi/bin/Debug/net9.0/TowerOfHanoi.runtimeconfig.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TowerOfHanoi/bin/Debug/net9.0/TowerOfHanoi.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TowerOfHanoi/bin/Debug/net9.0/TowerOfHanoi.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TowerOfHanoi/obj/Debug/net9.0/TowerOfHanoi.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TowerOfHanoi/obj/Debug/net9.0/TowerOfHanoi.AssemblyInfoInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TowerOfHanoi/obj/Debug/net9.0/TowerOfHanoi.AssemblyInfo.cs
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TowerOfHanoi/obj/Debug/net9.0/TowerOfHanoi.csproj.CoreCompileInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TowerOfHanoi/obj/Debug/net9.0/TowerOfHanoi.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TowerOfHanoi/obj/Debug/net9.0/refint/TowerOfHanoi.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TowerOfHanoi/obj/Debug/net9.0/TowerOfHanoi.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TowerOfHanoi/obj/Debug/net9.0/TowerOfHanoi.genruntimeconfig.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TowerOfHanoi/obj/Debug/net9.0/ref/TowerOfHanoi.dll
