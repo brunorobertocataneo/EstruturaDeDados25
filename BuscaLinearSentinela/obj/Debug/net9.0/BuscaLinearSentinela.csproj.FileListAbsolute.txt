@@ -1,0 +1,14 @@
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/BuscaLinearSentinela/bin/Debug/net9.0/BuscaLinearSentinela
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/BuscaLinearSentinela/bin/Debug/net9.0/BuscaLinearSentinela.deps.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/BuscaLinearSentinela/bin/Debug/net9.0/BuscaLinearSentinela.runtimeconfig.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/BuscaLinearSentinela/bin/Debug/net9.0/BuscaLinearSentinela.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/BuscaLinearSentinela/bin/Debug/net9.0/BuscaLinearSentinela.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/BuscaLinearSentinela/obj/Debug/net9.0/BuscaLinearSentinela.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/BuscaLinearSentinela/obj/Debug/net9.0/BuscaLinearSentinela.AssemblyInfoInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/BuscaLinearSentinela/obj/Debug/net9.0/BuscaLinearSentinela.AssemblyInfo.cs
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/BuscaLinearSentinela/obj/Debug/net9.0/BuscaLinearSentinela.csproj.CoreCompileInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/BuscaLinearSentinela/obj/Debug/net9.0/BuscaLinearSentinela.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/BuscaLinearSentinela/obj/Debug/net9.0/refint/BuscaLinearSentinela.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/BuscaLinearSentinela/obj/Debug/net9.0/BuscaLinearSentinela.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/BuscaLinearSentinela/obj/Debug/net9.0/BuscaLinearSentinela.genruntimeconfig.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/BuscaLinearSentinela/obj/Debug/net9.0/ref/BuscaLinearSentinela.dll

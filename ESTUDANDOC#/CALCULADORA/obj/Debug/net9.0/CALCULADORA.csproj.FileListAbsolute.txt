@@ -1,0 +1,14 @@
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/ESTUDANDOC#/CALCULADORA/bin/Debug/net9.0/CALCULADORA
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/ESTUDANDOC#/CALCULADORA/bin/Debug/net9.0/CALCULADORA.deps.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/ESTUDANDOC#/CALCULADORA/bin/Debug/net9.0/CALCULADORA.runtimeconfig.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/ESTUDANDOC#/CALCULADORA/bin/Debug/net9.0/CALCULADORA.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/ESTUDANDOC#/CALCULADORA/bin/Debug/net9.0/CALCULADORA.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/ESTUDANDOC#/CALCULADORA/obj/Debug/net9.0/CALCULADORA.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/ESTUDANDOC#/CALCULADORA/obj/Debug/net9.0/CALCULADORA.AssemblyInfoInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/ESTUDANDOC#/CALCULADORA/obj/Debug/net9.0/CALCULADORA.AssemblyInfo.cs
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/ESTUDANDOC#/CALCULADORA/obj/Debug/net9.0/CALCULADORA.csproj.CoreCompileInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/ESTUDANDOC#/CALCULADORA/obj/Debug/net9.0/CALCULADORA.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/ESTUDANDOC#/CALCULADORA/obj/Debug/net9.0/refint/CALCULADORA.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/ESTUDANDOC#/CALCULADORA/obj/Debug/net9.0/CALCULADORA.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/ESTUDANDOC#/CALCULADORA/obj/Debug/net9.0/CALCULADORA.genruntimeconfig.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/ESTUDANDOC#/CALCULADORA/obj/Debug/net9.0/ref/CALCULADORA.dll
