@@ -1,0 +1,14 @@
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/atividade-livro1/bin/Debug/net9.0/atividade-livro1
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/atividade-livro1/bin/Debug/net9.0/atividade-livro1.deps.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/atividade-livro1/bin/Debug/net9.0/atividade-livro1.runtimeconfig.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/atividade-livro1/bin/Debug/net9.0/atividade-livro1.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/atividade-livro1/bin/Debug/net9.0/atividade-livro1.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/atividade-livro1/obj/Debug/net9.0/atividade-livro1.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/atividade-livro1/obj/Debug/net9.0/atividade-livro1.AssemblyInfoInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/atividade-livro1/obj/Debug/net9.0/atividade-livro1.AssemblyInfo.cs
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/atividade-livro1/obj/Debug/net9.0/atividade-livro1.csproj.CoreCompileInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/atividade-livro1/obj/Debug/net9.0/atividade-livro1.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/atividade-livro1/obj/Debug/net9.0/refint/atividade-livro1.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/atividade-livro1/obj/Debug/net9.0/atividade-livro1.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/atividade-livro1/obj/Debug/net9.0/atividade-livro1.genruntimeconfig.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/atividade-livro1/obj/Debug/net9.0/ref/atividade-livro1.dll
