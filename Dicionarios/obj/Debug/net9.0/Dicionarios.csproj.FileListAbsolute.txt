@@ -1,0 +1,14 @@
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Dicionarios/bin/Debug/net9.0/Dicionarios
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Dicionarios/bin/Debug/net9.0/Dicionarios.deps.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Dicionarios/bin/Debug/net9.0/Dicionarios.runtimeconfig.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Dicionarios/bin/Debug/net9.0/Dicionarios.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Dicionarios/bin/Debug/net9.0/Dicionarios.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Dicionarios/obj/Debug/net9.0/Dicionarios.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Dicionarios/obj/Debug/net9.0/Dicionarios.AssemblyInfoInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Dicionarios/obj/Debug/net9.0/Dicionarios.AssemblyInfo.cs
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Dicionarios/obj/Debug/net9.0/Dicionarios.csproj.CoreCompileInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Dicionarios/obj/Debug/net9.0/Dicionarios.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Dicionarios/obj/Debug/net9.0/refint/Dicionarios.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Dicionarios/obj/Debug/net9.0/Dicionarios.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Dicionarios/obj/Debug/net9.0/Dicionarios.genruntimeconfig.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Dicionarios/obj/Debug/net9.0/ref/Dicionarios.dll

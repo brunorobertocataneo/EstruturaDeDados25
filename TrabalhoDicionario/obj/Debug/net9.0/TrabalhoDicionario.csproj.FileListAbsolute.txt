@@ -1,0 +1,14 @@
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TrabalhoDicionario/bin/Debug/net9.0/TrabalhoDicionario
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TrabalhoDicionario/bin/Debug/net9.0/TrabalhoDicionario.deps.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TrabalhoDicionario/bin/Debug/net9.0/TrabalhoDicionario.runtimeconfig.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TrabalhoDicionario/bin/Debug/net9.0/TrabalhoDicionario.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TrabalhoDicionario/bin/Debug/net9.0/TrabalhoDicionario.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TrabalhoDicionario/obj/Debug/net9.0/TrabalhoDicionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TrabalhoDicionario/obj/Debug/net9.0/TrabalhoDicionario.AssemblyInfoInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TrabalhoDicionario/obj/Debug/net9.0/TrabalhoDicionario.AssemblyInfo.cs
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TrabalhoDicionario/obj/Debug/net9.0/TrabalhoDicionario.csproj.CoreCompileInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TrabalhoDicionario/obj/Debug/net9.0/TrabalhoDicionario.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TrabalhoDicionario/obj/Debug/net9.0/refint/TrabalhoDicionario.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TrabalhoDicionario/obj/Debug/net9.0/TrabalhoDicionario.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TrabalhoDicionario/obj/Debug/net9.0/TrabalhoDicionario.genruntimeconfig.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/TrabalhoDicionario/obj/Debug/net9.0/ref/TrabalhoDicionario.dll

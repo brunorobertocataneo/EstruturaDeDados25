@@ -1,0 +1,14 @@
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/HashTables/bin/Debug/net9.0/HashTables
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/HashTables/bin/Debug/net9.0/HashTables.deps.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/HashTables/bin/Debug/net9.0/HashTables.runtimeconfig.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/HashTables/bin/Debug/net9.0/HashTables.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/HashTables/bin/Debug/net9.0/HashTables.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/HashTables/obj/Debug/net9.0/HashTables.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/HashTables/obj/Debug/net9.0/HashTables.AssemblyInfoInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/HashTables/obj/Debug/net9.0/HashTables.AssemblyInfo.cs
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/HashTables/obj/Debug/net9.0/HashTables.csproj.CoreCompileInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/HashTables/obj/Debug/net9.0/HashTables.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/HashTables/obj/Debug/net9.0/refint/HashTables.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/HashTables/obj/Debug/net9.0/HashTables.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/HashTables/obj/Debug/net9.0/HashTables.genruntimeconfig.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/HashTables/obj/Debug/net9.0/ref/HashTables.dll
