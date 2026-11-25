@@ -1,18 +1,13 @@
-# Projetos de Estudo em C#
+# Estruturas de Dados em C#
 
-## 🎯 Objetivo
+Repositório de exercícios e aplicações de console usados no estudo de C# e .NET.
 
-Esta pasta é destinada a armazenar projetos diversos, exercícios e estudos desenvolvidos durante o aprendizado da linguagem **C#** e do ecossistema **.NET**.
+O exercício [Dicionarios](Dicionarios/) inclui um exemplo de gerenciamento de encomendas. Veja o [programa de entrada](Dicionarios/Program.cs) e a [classe de gerenciamento](Dicionarios/GerenciadorEncomendas.cs). O comando abaixo executa esse exercício.
 
-## 📚 Conteúdo
+## Executar
 
-Aqui você encontrará exemplos de:
+Com o SDK do .NET 9 instalado, execute na raiz do repositório:
 
-* Exercícios de lógica e sintaxe da linguagem.
-* Pequenas aplicações de console.
-* Testes de funcionalidades e bibliotecas.
-* Projetos de exploração de diferentes aspectos da plataforma .NET.
-
----
-
-*Este diretório serve como um registro do meu progresso no aprendizado de C#.*
+```bash
+dotnet run --project Dicionarios/Dicionarios.csproj
+```
